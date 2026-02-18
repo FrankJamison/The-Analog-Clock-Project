@@ -1,4 +1,4 @@
-# 2006 Analog Clock Project (Local + UTC)
+# The Analog Clock Project (Local + UTC)
 
 A small, self-contained **HTML/CSS/JavaScript** project that renders **two animated analog clocks** using **inline SVG**:
 
