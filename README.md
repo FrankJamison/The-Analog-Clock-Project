@@ -46,7 +46,7 @@ py -m http.server 8080
 
 This workspace includes a task named **Open in Browser** that opens:
 
-- `http://2006analogclock.localhost/`
+- `http://theanalogclockproject.localhost/`
 
 If you don’t use that local domain, run the `http.server` command above (or adjust the task).
 
